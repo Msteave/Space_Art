@@ -1,0 +1,32 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "expo": "^32.0.0",
+    "install": "^0.12.2",
+    "npm": "^6.9.0",
+    "react": "16.5.0",
+    "react-media-player": "^0.7.7",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-document-picker": "^2.3.0",
+    "react-native-image-picker": "^0.28.1",
+    "react-native-maps": "^0.24.2",
+    "react-native-sound-player": "^0.8.0",
+    "react-native-track-player": "^1.1.4",
+    "react-native-vector-icons": "^6.4.2",
+    "react-navigation": "^3.9.1",
+    "react-redux": "^7.0.3",
+    "recompose": "^0.30.0",
+    "sync-storage": "^0.4.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}
